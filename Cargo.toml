@@ -50,7 +50,7 @@ syntect = { version = "5.0", default-features = false, features = ["parsing", "d
 textwrap = "0.16"
 tui = { version = "0.19", default-features = false, features = ['crossterm', 'serde'] }
 unicode-segmentation = "1.10"
-unicode-truncate = "0.2"
+unicode-truncate = "3.0"
 unicode-width = "0.1"
 which = "4.3"
 
